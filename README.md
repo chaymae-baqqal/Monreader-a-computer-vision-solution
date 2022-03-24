@@ -1,5 +1,5 @@
 ## qEB4d8oZs60bDV5V
-This repository is about implementing a model witch detect if a page is flipped or not, using python, GPU and CUDA device. In this project, I implemented 3 different models: EfficentNet, Resnet18 and CNN model.
+This repository is about implementing a model witch detect if a page is flipped or not, using python, GPU and CUDA device. In this project, I implemented 3 different models: **EfficentNet, Resnet18 and CNN model.**
 
 ## MonReader: a computer vision appliction
 ## Description
