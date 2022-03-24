@@ -18,7 +18,8 @@ Predict if the page is being flipped using a single image.
 * Modelling part
 * Results comparision
 * Conclusion
-> These are the last results I've got. 
+# Above, the last results I've got while comparing the 3 used models.
 ![Screenshot](Results.PNG)
 
-### *Let's go!*
+
+### *But how I got it? Check the notebook to exlpore then!*
