@@ -19,4 +19,4 @@ Predict if the page is being flipped using a single image.
 * Results comparision
 * Conclusion
 
-### *Let's go!
+### *Let's go!*
